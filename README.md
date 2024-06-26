@@ -1,7 +1,7 @@
 - [Server Tokens & Versions](#markdown-header-server-tokens-versions)
 - [Ports, Firewalls & Anti-Virus](#markdown-header-ports-firewalls-anti-virus)
 
-_Last Update: **March 2022**
+_Last Update: **March 2022**_
 
 In this guide we are going to go over some common steps in prep for a pen test or to help you clean up an already existing report,
 
